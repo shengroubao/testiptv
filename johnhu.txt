@@ -1,4 +1,4 @@
-广东香港,#genre#
+🐼丨广东香港,#genre#
 广东卫视高清,http://fyld.eatuo.com:9901/tsfile/live/1008_1.m3u8
 广东珠江高清,http://fyld.eatuo.com:9901/tsfile/live/1009_1.m3u8
 广东新闻,http://fyld.eatuo.com:9901/tsfile/live/1010_1.m3u8
@@ -22,7 +22,7 @@
 有线新闻台,http://2022.stream-link.org/playlist/cable_news
 無綫新聞台,http://2022.stream-link.org/playlist/tvb_news
 無綫財經·體育·資訊台,http://2022.stream-link.org/playlist/tvb_finance
-央视卫视,#genre#
+🐼丨央视卫视,#genre#
 欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 CCTV-16 奥林匹克4K,https://live.v1.mk/aishang/cctv164k
@@ -95,7 +95,7 @@ CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
 新动漫,https://live.v1.mk/aishang/xdm
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-中国台湾,#genre#
+🐼丨中国台湾,#genre#
 HITS频道,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
 民视新闻台,https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 台湾戏剧,http://www.336699.live:1935/blocksix/4gtv-live005.stream/chunklist.m3u8
@@ -184,7 +184,7 @@ arir,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 mezzo,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 TRACE,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 智林体育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-电影轮播,#genre#
+🐼丨电影轮播,#genre#
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 豆瓣高分,http://wtv.weetai.cn/iptv/2022/tyzb04.php?id=1800558
@@ -196,7 +196,7 @@ HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 糖豆广场舞,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_235_600_t10/c56_lb_235_600_t10.m3u8
 怀旧剧场,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8
 谍战剧场,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_216_600_t10/c57_lb_216_600_t10.m3u8
-电台,#genre#
+🐼丨电台,#genre#
 Today’s Hits,http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
 Pop Hits,http://rfcmedia.streamguys1.com/newpophitspremium.mp3
 Alternative Hits,http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
