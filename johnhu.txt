@@ -20,8 +20,8 @@
 凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 有线新闻台,http://2022.stream-link.org/playlist/cable_news
-無綫新聞台,http://2022.stream-link.org/playlist/tvb_news
-無綫財經·體育·資訊台,http://2022.stream-link.org/playlist/tvb_finance
+无线新闻台,http://2022.stream-link.org/playlist/tvb_news
+无线财经体育资讯台,http://2022.stream-link.org/playlist/tvb_finance
 🐼丨央视卫视,#genre#
 欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
