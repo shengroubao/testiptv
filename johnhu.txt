@@ -17,6 +17,8 @@
 翡翠台,http://2022.stream-link.org/playlist/tvb_jade.ts
 凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 有线新闻台,http://2022.stream-link.org/playlist/cable_news
 无线新闻台,http://2022.stream-link.org/playlist/tvb_news
@@ -93,10 +95,6 @@ CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 🐼丨中国台湾,#genre#
-HITS频道,http://www.336699.live:1935/blocksix/4gtv-live620.stream/chunklist.m3u8
-台湾戏剧,http://www.336699.live:1935/blocksix/4gtv-live005.stream/chunklist.m3u8
-台湾综艺,http://www.336699.live:1935/blocksix/4gtv-live006.stream/chunklist.m3u8
-大爱,http://www.336699.live:1935/blocksix/4gtv-live007.stream/chunklist.m3u8
 人间卫视,http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
 ROLLOR,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
 东森财经新闻,http://www.336699.live:1935/blocksix/4gtv-live019.stream/chunklist.m3u8
