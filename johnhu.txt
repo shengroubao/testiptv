@@ -1,4 +1,4 @@
-🐼丨广东香港,#genre#
+🐼丨广东,#genre#
 广东卫视高清,http://fyld.eatuo.com:9901/tsfile/live/1008_1.m3u8
 广东珠江高清,http://fyld.eatuo.com:9901/tsfile/live/1009_1.m3u8
 广东新闻,http://fyld.eatuo.com:9901/tsfile/live/1010_1.m3u8
@@ -14,17 +14,6 @@
 广州新闻,http://iptv.cooltv.top/tv/guangzhou.php?id=gzxw
 广州竞赛,http://iptv.cooltv.top/tv/guangzhou.php?id=gzjs
 广州南国都市,http://iptv.cooltv.top/tv/guangzhou.php?id=gzsh
-翡翠台,http://2022.stream-link.org/playlist/tvb_jade.ts
-凤凰中文,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
-凤凰资讯,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
-凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
-凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-有线新闻台,http://2022.stream-link.org/playlist/cable_news
-无线新闻台,http://2022.stream-link.org/playlist/tvb_news
-无线财经体育资讯台,http://2022.stream-link.org/playlist/tvb_finance
 🐼丨央视卫视,#genre#
 CCTV1,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV2,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240244_1/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
